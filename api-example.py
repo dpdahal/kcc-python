@@ -2,5 +2,8 @@ connection = {
     "name": '',
     "server": '',
     "port": 'your port',
-    "password": "enter password"
+    "password": "enter password",
+    "test": {
+        'hello'
+    }
 }
